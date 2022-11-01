@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  AR Ruler
-//
-//  Created by Admin on 20/09/2022.
-//
 
 import UIKit
 
