@@ -1,8 +1,11 @@
 ## Ruler
-<img width="377" alt="Знімок екрана 2022-11-01 о 19 29 51" src="https://user-images.githubusercontent.com/109367230/199310459-588f4451-7b32-4bf8-bb75-900190cd1de1.png">
 
-<img width="377" alt="Знімок екрана 2022-11-01 о 19 28 39" src="https://user-images.githubusercontent.com/109367230/199310233-f9eedf4c-0fc2-458a-a146-e908dc242be1.png">
-<img width="377" alt="Знімок екрана 2022-11-01 о 19 28 56" src="https://user-images.githubusercontent.com/109367230/199310284-351e3b94-c32a-4035-8356-38635a174871.png">
+<img width="461" alt="Знімок екрана 2022-11-02 о 12 59 46" src="https://user-images.githubusercontent.com/109367230/199484445-7ec7d97e-7bbc-4bbc-9a68-b1cf5eac75fe.png">
+<img width="461" alt="Знімок екрана 2022-11-02 о 13 01 51" src="https://user-images.githubusercontent.com/109367230/199484851-45890676-b240-4d67-9f3b-95e556d919ff.png">
+<img width="461" alt="Знімок екрана 2022-11-02 о 13 02 12" src="https://user-images.githubusercontent.com/109367230/199484900-6f0ac600-c258-4903-bc46-46a0b9e6faee.png">
+<img width="461" alt="Знімок екрана 2022-11-02 о 13 02 24" src="https://user-images.githubusercontent.com/109367230/199484929-8cabbefe-d761-4a19-a50b-beb352ca0365.png">
+
+
 
 
 ## Goal
